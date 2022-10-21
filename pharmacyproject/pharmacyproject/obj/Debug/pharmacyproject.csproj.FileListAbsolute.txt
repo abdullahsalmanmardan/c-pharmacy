@@ -1,0 +1,40 @@
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\bin\Debug\pharmacyproject.exe.config
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\bin\Debug\pharmacyproject.exe
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\bin\Debug\pharmacyproject.pdb
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.exe
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.pdb
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.Add_Medicine_To_Bill.resources
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.Add_Medicine.resources
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.AddUser.resources
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.CheckMedicine.resources
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.administrator.resources
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.Pharmacist.resources
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.View_Medicine.resources
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.view_user.resources
+C:\Users\Dell\OneDrive\Desktop\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.UpdateMedcine.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\bin\Debug\pharmacyproject.exe.config
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\bin\Debug\pharmacyproject.exe
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\bin\Debug\pharmacyproject.pdb
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.Add_Medicine_To_Bill.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.Add_Medicine.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.AddUser.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.CheckMedicine.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.administrator.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.Pharmacist.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.UpdateMedcine.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.View_Medicine.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.view_user.resources
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.exe
+C:\Users\Dell\OneDrive\Desktop\abdulah all work\fiver project 2 c# desktop application\client c# pharmacy project\pharmacyproject\pharmacyproject\obj\Debug\pharmacyproject.pdb
